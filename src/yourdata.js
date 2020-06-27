@@ -11,6 +11,7 @@ export default
     ],
   
         contactEmail:'stacyanne01@gmail.com',
+        contactTel:'+254 706 960 287',
 
         abouttext: "I'm a Computer Science graduate who is very passionate about all things web development. My experience includes using programming languages such as HTML, CSS(Bootstrap), and JavaScript to create various features for websites and web applications. I am very proficient in PHP and Laravel for back-end development. I’m also well versed with other web technologies such as Content Management Systems i.e. WordPress. ",
         aboutImage:'profile.jpg',

@@ -244,8 +244,8 @@ nav{
   grid-gap: 5em;
 }
 .project img{
-width: 45em;  
-height: 45em;
+  width: 30em;  
+  height: 20em;
 }
 
 .contact{
@@ -324,8 +324,8 @@ nav{
   grid-gap: 5em;
 }
 .project img{
-width: 30em;  
-height: 30em;
+  width: 30em;  
+  height: 20em;
 }
 
 .contact{
@@ -409,8 +409,8 @@ nav li{
   grid-template-columns: 1fr 1fr 1fr;
 }
 .project img{
-width: 32em;  
-height: 32em;
+  width: 30em;  
+  height: 20em;
 }
 
 .contact{
