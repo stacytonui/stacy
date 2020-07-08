@@ -213,7 +213,7 @@ nav{
 }
 .header-title{
   font-size: 3em;
-  text-align: left;
+  text-align: center;
   top:1em;
   left:1em;
 }
@@ -229,7 +229,7 @@ nav{
 }
 .about-content p{
   font-size: 3.5em;
-  text-align: left;
+  text-align: center;
   width: 300px;
 }
 
