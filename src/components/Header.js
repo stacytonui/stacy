@@ -18,7 +18,9 @@ class Header extends Component {
             {data.headerTagline[0]}<br></br>{data.headerTagline[1]}<br></br>
             {data.headerTagline[2]}
                <br></br>
-                    <button><a href={`mailto:${data.contactEmail}`} rel="noopener noreferrer" >Contact Me</a></button>
+                    <button><a href={`mailto:${data.contactEmail}`} target = "_blank" rel="noopener noreferrer" >Contact Me</a></button>
+                    &nbsp;
+                    <button><a href={`${data.cv}`} target = "_blank" rel="noopener noreferrer" >Download CV</a></button>
                 </p>
             </Fade>
 
