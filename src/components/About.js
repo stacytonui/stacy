@@ -9,15 +9,10 @@ class About extends Component {
             <div className='about-content'>
             <h1><Fade bottom cascade>About.</Fade></h1>
             <Fade bottom>
-                    <p>{data.abouttext}
-                    
-                    <button><a href={`mailto:${data.contactEmail}`} rel="noopener noreferrer" >Contact Me</a></button></p>
-                 
-               
-                   
+                    <p>{data.abouttext}</p>
             </Fade>
             </div>
-            {data.ShowAboutImage ? <img src={data.aboutImage} alt='about imaage'></img> : null}
+            {data.ShowAboutImage ? <img src={data.aboutImage} alt='about image'></img> : null}
             
 
         </div> 
