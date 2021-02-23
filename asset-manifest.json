@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stacy/static/css/main.9c8d1904.chunk.css",
+    "main.js": "/stacy/static/js/main.5df1396f.chunk.js",
+    "main.js.map": "/stacy/static/js/main.5df1396f.chunk.js.map",
+    "runtime~main.js": "/stacy/static/js/runtime~main.140d7ad5.js",
+    "runtime~main.js.map": "/stacy/static/js/runtime~main.140d7ad5.js.map",
+    "static/js/2.85e564d4.chunk.js": "/stacy/static/js/2.85e564d4.chunk.js",
+    "static/js/2.85e564d4.chunk.js.map": "/stacy/static/js/2.85e564d4.chunk.js.map",
+    "index.html": "/stacy/index.html",
+    "precache-manifest.b464d8c17a5cd7867f0701fb7738b0ea.js": "/stacy/precache-manifest.b464d8c17a5cd7867f0701fb7738b0ea.js",
+    "service-worker.js": "/stacy/service-worker.js",
+    "static/css/main.9c8d1904.chunk.css.map": "/stacy/static/css/main.9c8d1904.chunk.css.map"
+  }
+}
