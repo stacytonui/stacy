@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "128fae676a800fa4bfdd097407ce9894",
+    "revision": "8e08458fd28dd4b2d175a9e0cfc55e1f",
     "url": "/stacy/index.html"
   },
   {
-    "revision": "ba30c74b5f97afc9fc30",
+    "revision": "803eb238693a1aeb5c31",
     "url": "/stacy/static/css/main.9c8d1904.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stacy/static/js/2.85e564d4.chunk.js"
   },
   {
-    "revision": "ba30c74b5f97afc9fc30",
-    "url": "/stacy/static/js/main.5df1396f.chunk.js"
+    "revision": "803eb238693a1aeb5c31",
+    "url": "/stacy/static/js/main.5f06cc73.chunk.js"
   },
   {
     "revision": "8e6a57dde1ad34b64eb9",
